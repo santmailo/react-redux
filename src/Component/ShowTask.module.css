@@ -1,0 +1,19 @@
+.container{
+  margin-top:10px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.taskInput{
+  width: 60%
+}
+
+.taskDate{
+  width: 20%;
+}
+
+.btn{
+  width: 20%;
+  background-color: red;
+}
